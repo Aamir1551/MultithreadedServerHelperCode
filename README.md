@@ -16,4 +16,5 @@ After testing out server.java as your server, have a look at optimised server
 
 Now see how it behaves with 2 clients
 
+You can have as many clients as you want when testing out this multithreaded server
 
